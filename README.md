@@ -43,7 +43,7 @@ Each model is evaluated using the following metrics:
    - **R² Score**
 
    ### Stock Prediction Plot
-   ![Stock Prediction](./figures/stock_price_prediction_AAPL_2022-01-01_2023-01-01.png)
+   ![Stock Prediction](./figures/stock_price_prediction_AAPL_2018-07-24_2022-12-30.png)
 
    This plot shows actual vs. predicted prices for different models (e.g., Linear Regression, Random Forest, LSTM) for each stock, helping to visualize model performance over time.
 
